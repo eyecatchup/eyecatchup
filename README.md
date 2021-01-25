@@ -1,6 +1,15 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/3o7aDa022Z5JIgsKkg/giphy.gif" width="100%">
+
 
 <!--
+### Hi there 👋
+
+I'm Stephan, a professional web developer from Cologne, Germany. My focus is on CSS and JavaScript, but my code speaks many languages.
+
+As an open source enthusiast and agile advocate, I've worked as a freelaancer as well as full-time for small businesses and international corporations and gathered 15+ years of professional experience.
+
+https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif
+
 **eyecatchup/eyecatchup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
