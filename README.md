@@ -1,8 +1,11 @@
+### Hi there 👋
+
+I'm Stephan, a professional web developer from Cologne, Germany.
+
 <img src="https://media.giphy.com/media/Vbn7PUTxaB6dVnVa2h/giphy.gif" width="100%">
 
 
 <!--
-### Hi there 👋
 
 I'm Stephan, a professional web developer from Cologne, Germany. My focus is on CSS and JavaScript, but my code speaks many languages.
 
